@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad Fakhrul Amin 👋
+### Hi there, I'm Baharudin Nur Hidayat 👋
 
 - 🌱 I’m currently learning Machine Learning and Front End
 - 😄 Pronouns: He/him
@@ -36,11 +36,11 @@ KOMENNN
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&theme=noctis-minimus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfakhrulam&show_icons=true&theme=noctis_minimus)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=baharudidnayat&show_icons=true&theme=noctis_minimus)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mfakhrulam&theme=noctis-minimus) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baharudndayat&theme=noctis-minimus) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&layout=compact&theme=noctis_minimus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baharudindayat&layout=compact&theme=noctis_minimus)
 
 
 <!--
