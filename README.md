@@ -1,6 +1,6 @@
 ### Hi there, I'm Baharudin Nur Hidayat 👋
 
-- 🌱 I’m currently learning Machine Learning and Front End
+- 🌱 I’m currently learning Flutter and Full stack web 
 - 😄 Pronouns: He/him
 
 <div id="header" align="center">
