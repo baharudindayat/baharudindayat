@@ -9,7 +9,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="instagram.com/dayat.b_">
+  <a href="https://www.instagram.com/dayat.b_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/baharudin-nur-hidayat-432522203">
