@@ -36,9 +36,9 @@ KOMENNN
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&theme=noctis-minimus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=baharudidnayat&show_icons=true&theme=noctis_minimus)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=baharudindayat&show_icons=true&theme=noctis_minimus)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baharudndayat&theme=noctis-minimus) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baharudindayat&theme=noctis-minimus) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baharudindayat&layout=compact&theme=noctis_minimus)
 
