@@ -112,7 +112,7 @@ me.sayHi()
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baharudindayat&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/baharudindayat/your-awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baharudindayat&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/baharudindayat-dev/android-misata)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baharudindayat&repo=another-cool-project&theme=tokyonight&hide_border=true)](https://github.com/baharudindayat/another-cool-project)
 
 </div>
