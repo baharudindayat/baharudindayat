@@ -1,0 +1,9 @@
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+.vscode/
+*.backup
+
+# Generated files
+dynamic_update.log

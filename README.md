@@ -123,7 +123,11 @@ const baharudin = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/baharudindayat/baharudindayat/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baharudindayat/baharudindayat/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baharudindayat/baharudindayat/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baharudindayat/baharudindayat/output/snake.svg">
+  </picture>
 </div>
 
 <br>
@@ -207,7 +211,9 @@ Your support means a lot and helps me continue creating awesome projects! 🚀
 <br>
 
 ### 🎧 Currently Listening To
-[![Spotify](https://novatorem-kappa-coral.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=true" alt="Spotify recently played"/>
+</div>
 
 ### 🎯 Hobbies
 - 🎮 Gaming (Mobile & PC)
